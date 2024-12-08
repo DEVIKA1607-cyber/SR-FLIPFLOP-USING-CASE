@@ -43,7 +43,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 4. Now open university program VWF and download waveform after the execution.
 
 **PROGRAM**
-
+```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
 
@@ -62,7 +62,7 @@ endmodule
 
 Developed by:D DEVIKA
 RegisterNumber:24002534
-
+```
 
 **RTL LOGIC FOR FLIPFLOPS**
 
